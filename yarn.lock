@@ -8377,6 +8377,11 @@
     "esquery" "^1.0.1"
     "lodash" "^4.17.15"
 
+"vue-fb-customer-chat@^0.2.0":
+  "integrity" "sha512-Nk51oAGgBFHYRakUQCw9Un64Y4qY4SAX2mQLpXCrCFQseVA9OOI9K/KLhmYRhd33Ar/maZeZh/0ziHilStHZkQ=="
+  "resolved" "https://registry.npmjs.org/vue-fb-customer-chat/-/vue-fb-customer-chat-0.2.0.tgz"
+  "version" "0.2.0"
+
 "vue-hot-reload-api@^2.3.0":
   "integrity" "sha512-BXq3jwIagosjgNVae6tkHzzIk6a8MHFtzAdwhnV5VlvPTFxDCvIttgSiHWjdGoTJvXtmRu5HacExfdarRcFhog=="
   "resolved" "https://registry.yarnpkg.com/vue-hot-reload-api/-/vue-hot-reload-api-2.3.4.tgz"
